@@ -270,27 +270,6 @@ class GraphInterface
         grman::WidgetButton m_retour;
         grman::WidgetImage m_retour_image;
 
-        grman::WidgetBox m_sup_box;
-        grman::WidgetButton m_sup;
-        grman::WidgetImage m_sup_image;
-
-        grman::WidgetBox m_aj_box;
-        grman::WidgetButton m_aj;
-        grman::WidgetImage m_aj_image;
-
-        grman::WidgetBox m_ajs_box;
-        grman::WidgetButton m_ajs;
-        grman::WidgetImage m_ajs_image;
-
-        grman::WidgetBox m_sups_box;
-        grman::WidgetButton m_sups;
-        grman::WidgetImage m_sups_image;
-
-        grman::WidgetBox m_supa_box;
-        grman::WidgetButton m_supa;
-        grman::WidgetImage m_supa_image;
-
-
     public :
 
         // Le constructeur met en place les éléments de l'interface
@@ -342,8 +321,8 @@ class Graph
         void make_example();
         void set_choix(int i) {m_choix = i;}
         void videVecteur();
+
         void Ajoutarcs();
-        void ajoutSommet();
 };
 
 

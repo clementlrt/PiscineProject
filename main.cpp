@@ -17,8 +17,8 @@ void menu(Graph &g, bool *prog, bool *prog2)
     }
 
     clear_bitmap(buffer);
-
-   while(work)
+///selection image
+    while(work)
     {
         blit(page,buffer,0,0,0,0,800,600);
 
@@ -44,7 +44,6 @@ void menu(Graph &g, bool *prog, bool *prog2)
                 work = false;
                 g.set_choix(3);
             }
-
 
             if(mouse_x > 25 && mouse_y > 30 && mouse_x < 90 && mouse_y < 71)
                 exit (EXIT_FAILURE);

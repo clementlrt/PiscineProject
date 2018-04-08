@@ -1,0 +1,24 @@
+9
+200 50 aigle.bmp
+400 50 castor.bmp
+600 50 elan.bmp
+200 150 glouton.bmp
+400 150 lievre.bmp
+600 150 loup.bmp
+200 250 lynx.bmp
+600 250 ours.bmp
+400 400 vegetaux.bmp
+13
+0 1
+1 8
+2 8
+3 4
+3 1
+4 8
+5 2
+5 4
+5 1
+6 1
+6 4
+7 4
+7 2
