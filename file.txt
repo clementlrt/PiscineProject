@@ -1,0 +1,24 @@
+9
+196 46 aigle.bmp
+396 46 castor.bmp
+596 46 elan.bmp
+196 146 glouton.bmp
+396 146 lievre.bmp
+596 146 loup.bmp
+42 423 lynx.bmp
+596 246 ours.bmp
+675 596 vegetaux.bmp
+13
+0 1
+1 8
+2 8
+3 4
+3 1
+4 8
+5 2
+5 4
+5 1
+6 1
+6 4
+7 4
+7 2
