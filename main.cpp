@@ -17,8 +17,13 @@ void menu(Graph &g, bool *prog, bool *prog2)
     }
 
     clear_bitmap(buffer);
+<<<<<<< HEAD
 
    while(work)
+=======
+///selection image
+    while(work)
+>>>>>>> origin/Charger_fichier
     {
         blit(page,buffer,0,0,0,0,800,600);
 
@@ -45,7 +50,10 @@ void menu(Graph &g, bool *prog, bool *prog2)
                 g.set_choix(3);
             }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/Charger_fichier
             if(mouse_x > 25 && mouse_y > 30 && mouse_x < 90 && mouse_y < 71)
                 exit (EXIT_FAILURE);
         }
@@ -67,12 +75,20 @@ int main()
     bool prog = true;
     bool prog2 = true;
 
+<<<<<<< HEAD
 ///boucle de jeux
+=======
+
+>>>>>>> origin/Charger_fichier
     while (prog)
     {
         menu(g, &prog, &prog2);
 
+<<<<<<< HEAD
         while(prog2)
+=======
+        while(!key[KEY_ESC] && prog2)
+>>>>>>> origin/Charger_fichier
         {
             /// Il faut appeler les méthodes d'update des objets qui comportent des widgets
             g.update(&prog2);

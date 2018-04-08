@@ -228,11 +228,19 @@
 	<iostream>
 	"graph.h"
 
+<<<<<<< HEAD
 1523193214 source:c:\users\ducou\downloads\piscine_louis_clément\projetpiscine-clement\graph.cpp
 	"graph.h"
 	"sstream"
 
 1523153886 c:\users\ducou\downloads\piscine_louis_clément\projetpiscine-clement\graph.h
+=======
+1523093791 source:c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\graph.cpp
+	"graph.h"
+	"sstream"
+
+1523100164 c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\graph.h
+>>>>>>> origin/Charger_fichier
 	<iostream>
 	<fstream>
 	<vector>
@@ -241,19 +249,32 @@
 	<memory>
 	"grman/grman.h"
 
+<<<<<<< HEAD
 1523090844 c:\users\ducou\downloads\piscine_louis_clément\projetpiscine-clement\grman\grman.h
+=======
+1523093795 c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\grman.h
+>>>>>>> origin/Charger_fichier
 	<allegro.h>
 	<string>
 	"grman_couleurs.h"
 	"coords.h"
 	"widget.h"
 
+<<<<<<< HEAD
 1523090844 c:\users\ducou\downloads\piscine_louis_clément\projetpiscine-clement\grman\grman_couleurs.h
 
 1523090842 c:\users\ducou\downloads\piscine_louis_clément\projetpiscine-clement\grman\coords.h
 	<cmath>
 
 1523090844 c:\users\ducou\downloads\piscine_louis_clément\projetpiscine-clement\grman\widget.h
+=======
+1523093795 c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\grman_couleurs.h
+
+1523093795 c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\coords.h
+	<cmath>
+
+1523093795 c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\widget.h
+>>>>>>> origin/Charger_fichier
 	"grman.h"
 	<iostream>
 	<string>
@@ -261,10 +282,17 @@
 	<algorithm>
 	<allegro.h>
 
+<<<<<<< HEAD
 1523090842 source:c:\users\ducou\downloads\piscine_louis_clément\projetpiscine-clement\grman\coords.cpp
 	"coords.h"
 
 1523091004 source:c:\users\ducou\downloads\piscine_louis_clément\projetpiscine-clement\grman\grman.cpp
+=======
+1523093795 source:c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\coords.cpp
+	"coords.h"
+
+1523096758 source:c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\grman.cpp
+>>>>>>> origin/Charger_fichier
 	<cmath>
 	<unordered_map>
 	<unordered_set>
@@ -278,6 +306,7 @@
 	<loadpng.h>
 	<jpgalleg.h>
 
+<<<<<<< HEAD
 1523090844 source:c:\users\ducou\downloads\piscine_louis_clément\projetpiscine-clement\grman\widget.cpp
 	"widget.h"
 
@@ -340,6 +369,12 @@
 	"widget.h"
 
 1523095634 source:g:\projetpiscine-clement\main.cpp
+=======
+1523093795 source:c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\widget.cpp
+	"widget.h"
+
+1523094516 source:c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\main.cpp
+>>>>>>> origin/Charger_fichier
 	"grman/grman.h"
 	<iostream>
 	"graph.h"

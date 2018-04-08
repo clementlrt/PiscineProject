@@ -335,7 +335,7 @@ class Graph
         void update(bool *prog2);
         void charger_fichier(std::string nom);
 
-        /// Save et suppr
+        /// Save et supprrr
         void save();
         void test_remove_edge(int eidx);
         void test_remove_vertex(int vidx);

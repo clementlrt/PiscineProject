@@ -1,4 +1,5 @@
 9
+<<<<<<< HEAD
 196 46 aigle.bmp
 396 46 castor.bmp
 596 46 elan.bmp
@@ -8,6 +9,17 @@
 42 423 lynx.bmp
 596 246 ours.bmp
 675 596 vegetaux.bmp
+=======
+200 50 aigle.bmp
+400 50 castor.bmp
+600 50 elan.bmp
+200 150 glouton.bmp
+400 150 lievre.bmp
+600 150 loup.bmp
+200 250 lynx.bmp
+600 250 ours.bmp
+400 400 vegetaux.bmp
+>>>>>>> origin/Charger_fichier
 13
 0 1
 1 8
