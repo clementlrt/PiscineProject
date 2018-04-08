@@ -1,0 +1,288 @@
+# depslib dependency file v1.0
+1522760595 source:c:\users\clement lurati\desktop\graph_lib_v1\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522760595 c:\users\clement lurati\desktop\graph_lib_v1\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522760595 source:c:\users\clement lurati\desktop\graph_lib_v1\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+
+1522760595 c:\users\clement lurati\desktop\graph_lib_v1\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522760595 c:\users\clement lurati\desktop\graph_lib_v1\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522760595 c:\users\clement lurati\desktop\graph_lib_v1\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522760595 c:\users\clement lurati\desktop\graph_lib_v1\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522760595 source:c:\users\clement lurati\desktop\graph_lib_v1\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522760595 source:c:\users\clement lurati\desktop\graph_lib_v1\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522760595 source:c:\users\clement lurati\desktop\graph_lib_v1\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1523017441 source:c:\users\clement lurati\desktop\piscine\graph_lib_v1\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+	"sstream"
+
+1523017441 c:\users\clement lurati\desktop\piscine\graph_lib_v1\graph_lib_exemple_graph\graph.h
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522760595 c:\users\clement lurati\desktop\piscine\graph_lib_v1\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522760595 c:\users\clement lurati\desktop\piscine\graph_lib_v1\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522760595 c:\users\clement lurati\desktop\piscine\graph_lib_v1\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522888417 c:\users\clement lurati\desktop\piscine\graph_lib_v1\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522760595 source:c:\users\clement lurati\desktop\piscine\graph_lib_v1\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522945422 source:c:\users\clement lurati\desktop\piscine\graph_lib_v1\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522760595 source:c:\users\clement lurati\desktop\piscine\graph_lib_v1\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1523017128 source:c:\users\clement lurati\desktop\piscine\graph_lib_v1\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1523034308 source:c:\users\ducou\desktop\projetpiscine-clement\graph.cpp
+	"graph.h"
+	"sstream"
+
+1523029831 c:\users\ducou\desktop\projetpiscine-clement\graph.h
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523020358 c:\users\ducou\desktop\projetpiscine-clement\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523020358 c:\users\ducou\desktop\projetpiscine-clement\grman\grman_couleurs.h
+
+1523020358 c:\users\ducou\desktop\projetpiscine-clement\grman\coords.h
+	<cmath>
+
+1523032198 c:\users\ducou\desktop\projetpiscine-clement\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523020358 source:c:\users\ducou\desktop\projetpiscine-clement\grman\coords.cpp
+	"coords.h"
+
+1523031400 source:c:\users\ducou\desktop\projetpiscine-clement\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523020358 source:c:\users\ducou\desktop\projetpiscine-clement\grman\widget.cpp
+	"widget.h"
+
+1523035542 source:c:\users\ducou\desktop\projetpiscine-clement\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1523048127 source:c:\users\sixtine polart\desktop\projetpiscine-clement\graph.cpp
+	"graph.h"
+	"sstream"
+
+1523045569 c:\users\sixtine polart\desktop\projetpiscine-clement\graph.h
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523016760 c:\users\sixtine polart\desktop\projetpiscine-clement\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523016760 c:\users\sixtine polart\desktop\projetpiscine-clement\grman\grman_couleurs.h
+
+1523016760 c:\users\sixtine polart\desktop\projetpiscine-clement\grman\coords.h
+	<cmath>
+
+1523028600 c:\users\sixtine polart\desktop\projetpiscine-clement\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523016760 source:c:\users\sixtine polart\desktop\projetpiscine-clement\grman\coords.cpp
+	"coords.h"
+
+1523047239 source:c:\users\sixtine polart\desktop\projetpiscine-clement\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523016760 source:c:\users\sixtine polart\desktop\projetpiscine-clement\grman\widget.cpp
+	"widget.h"
+
+1523048413 source:c:\users\sixtine polart\desktop\projetpiscine-clement\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1523093791 source:c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\graph.cpp
+	"graph.h"
+	"sstream"
+
+1523100164 c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\graph.h
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523093795 c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523093795 c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\grman_couleurs.h
+
+1523093795 c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\coords.h
+	<cmath>
+
+1523093795 c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523093795 source:c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\coords.cpp
+	"coords.h"
+
+1523096758 source:c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523093795 source:c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\grman\widget.cpp
+	"widget.h"
+
+1523094516 source:c:\users\clement lurati\desktop\piscine_louis_clément\projetpiscine-clement\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
