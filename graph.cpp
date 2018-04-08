@@ -374,7 +374,7 @@ void Graph::Suppr()
         }
     }
 }
-///fonction pour vider de vecteur
+///fonction pour vider de vecteur pp
 void Graph::videVecteur()
 
 {   int t1=m_edges.size() ;
