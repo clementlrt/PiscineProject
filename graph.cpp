@@ -104,7 +104,7 @@ EdgeInterface::EdgeInterface(Vertex& from, Vertex& to)
 }
 
 
-/// Gestion du Edge avant l'appel à l'interface
+/// Gestion du Edge avant l'appel à l'interface et
 void Edge::pre_update()
 {
     if (!m_interface)
