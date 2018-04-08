@@ -67,7 +67,7 @@ int main()
     bool prog = true;
     bool prog2 = true;
 
-
+///boucle de jeux
     while (prog)
     {
         menu(g, &prog, &prog2);

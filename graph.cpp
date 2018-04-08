@@ -97,7 +97,7 @@ EdgeInterface::EdgeInterface(Vertex& from, Vertex& to)
     m_slider_weight.set_dim(16,40);
     m_slider_weight.set_gravity_y(grman::GravityY::Up);
 
-    // Label de visualisation de valeur
+    // Label pour  visualisation de valeur
     m_box_edge.add_child( m_label_weight );
     m_label_weight.set_gravity_y(grman::GravityY::Down);
 
