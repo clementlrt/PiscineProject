@@ -374,7 +374,7 @@ void Graph::Suppr()
         }
     }
 }
-
+///fonction pour vider de vecteur
 void Graph::videVecteur()
 
 {   int t1=m_edges.size() ;
@@ -390,7 +390,7 @@ void Graph::videVecteur()
         m_vertices.erase(m_vertices.find(i));
     }
 }
-
+///
 void Graph::Ajoutarcs()
 {
     unsigned int n=0;

@@ -2,7 +2,7 @@
 #include <iostream>
 
 #include "graph.h"
-
+///  p
 void menu(Graph &g, bool *prog, bool *prog2)
 {
     bool work = true;
