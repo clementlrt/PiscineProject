@@ -107,7 +107,7 @@ void buf_effacer_page();
 // A appeler une fois dans la boucle d'interaction
 // A LA FIN JUSTE AVANT rest(10);
 void buf_afficher_page();
-
+///
 
 /// Entrées clavier/souris
 
